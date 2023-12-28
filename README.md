@@ -1,7 +1,11 @@
 # Hi there, it's Anika! 👋
 **`M.Tech-Research Scholar`**
 **`Communications & Signal Processing`**
+**`Deep Learning`**
+**`Image Processing`**
+**`Applied Optimization`**
 <!--
+
 **anika81199/anika81199** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
