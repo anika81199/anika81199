@@ -1,5 +1,6 @@
 # Hi there, it's Anika! 👋
 **`M.Tech-Research Scholar`**
+**`Communications & Signal Processing`**
 <!--
 **anika81199/anika81199** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
