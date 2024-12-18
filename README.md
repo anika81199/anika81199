@@ -15,12 +15,12 @@ Key skills:
 
 
 ---
+
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
-### Spotify Playlist 🎧
-My ode-to-code:
+### Spotify Playing 🎧
 
-[![Spotify](https://open.spotify.com/playlist/1A2fZQ5NSBR0CEbBuzyFe7/)](https://open.spotify.com/playlist/1A2fZQ5NSBR0CEbBuzyFe7)
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/31zgg7quj3teuxf3mppylkxgip3q)
 
 ---
 
