@@ -3,13 +3,16 @@
 I like exploring the beauty of images both through the lens and through algorithms.
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif">
 
-**`M.Tech-Research Scholar`**
 **`Machine learning Enthusiast`**
 **`Deep Learning`**
 **`Image Processing`**
 **`Applied Optimization`**
 **`Linear Algebra`**
 **`Probability`**
+
+- 👨‍💻 I'm currently working on developing a deep-learning based solution for the Blind-image Deconvolution problem using latent-space characterization.
+- 📚 I'm learning to
+- ⚡ Fun fact: 
 <!--
 
 **anika81199/anika81199** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
