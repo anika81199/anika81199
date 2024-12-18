@@ -20,7 +20,7 @@ Key skills:
 ### Spotify Playlist 🎧
 Here's a playlist that keeps me inspired while I code:
 
-[![Spotify Playlist](https://open.spotify.com/embed/playlist/1A2fZQ5NSBR0CEbBuzyFe7)](https://open.spotify.com/playlist/1A2fZQ5NSBR0CEbBuzyFe7)
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/31zgg7quj3teuxf3mppylkxgip3q)
 
 ---
 
