@@ -15,7 +15,7 @@ Key skills:
 
 - 📚 working on developing a deep-learning based solution for the Blind-image Deconvolution problem using latent-space characterization.
 - 👩🏻‍💻 learning DSA in python
-- ⚡ Fun fact: everything is impossible until it isn't.
+- ⚡ Fun fact: everything is impossible until it isn't :)
 
 ---
 
