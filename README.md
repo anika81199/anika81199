@@ -20,7 +20,7 @@ Key skills:
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/o9hka6wmrpji6v6ufyq30bv6i)
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)]([https://open.spotify.com/user/o9hka6wmrpji6v6ufyq30bv6i](https://open.spotify.com/playlist/1A2fZQ5NSBR0CEbBuzyFe7?trackId=2LD2gT7gwAurzdQDQtILds))
 
 ---
 <!--
