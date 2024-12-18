@@ -1,4 +1,5 @@
-# Hi there, it's Anika! 👋
+# Hi there, it's Anika! 👋 <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
+
 **`M.Tech-Research Scholar`**
 **`Communications & Signal Processing`**
 **`Deep Learning`**
