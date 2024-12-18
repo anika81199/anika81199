@@ -14,13 +14,11 @@ Key skills:
 - 📚 working on developing a deep-learning based solution for the Blind-image Deconvolution problem using latent-space characterization.
 - 👩🏻‍💻 learning DSA in python
 
-
 ---
 
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
 ### Spotify Playing 🎧
-
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/31zgg7quj3teuxf3mppylkxgip3q)
 
 ---
