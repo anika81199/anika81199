@@ -7,15 +7,19 @@ Key skills:
 **`Machine learning`**
 **`Deep Learning`**
 **`Image Processing`**
+**`PyTorch`**
+**`Tensorflow`**
+**`ML libraries`**
 **`Python`**
 **`DSA`**
 **`Probability`**
 **`Linear Algebra`**
 
 
-- 📚 working on developing a deep-learning based solution for the Blind-image Deconvolution problem using latent-space characterization.
-- 👩🏻‍💻 learning DSA in python
-- ⚡ Fun fact: everything is impossible until it isn't :)
+
+- 📚 Current: working on developing a deep-learning based solution for the Blind-image Deconvolution problem using latent-space characterization.
+- 👩🏻‍💻 Exploring: learning DSA in python.
+- ⚡ Fun fact: Amateur photographer.
 
 ---
 
