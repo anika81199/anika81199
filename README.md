@@ -9,7 +9,6 @@ Key skills:
 **`Image Processing`**
 **`PyTorch`**
 **`Tensorflow`**
-**`ML libraries`**
 **`Python`**
 **`DSA`**
 **`Probability`**
