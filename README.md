@@ -13,6 +13,7 @@ Key skills:
 **`DSA`**
 **`Probability`**
 **`Linear Algebra`**
+**`High-dim Data Analysis`**
 
 
 
