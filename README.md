@@ -6,7 +6,10 @@
 Key skills:
 **`Machine learning`**
 **`Deep Learning`**
-**`Image Processing`**
+**`Computer Vision`**
+**`NLP`**
+**`Generative AI`**
+**`LLMs`**
 **`PyTorch`**
 **`Tensorflow`**
 **`Python`**
