@@ -20,8 +20,8 @@ Key skills:
 
 
 
-- 📚 Current: working on developing a deep-learning based solution for the Blind-image Deconvolution problem using latent-space characterization.
-- 👩🏻‍💻 Exploring: learning DSA in python.
+- 📚 Current: working on characterizing latent spaces of different deep learning models like Autoencoders, VAEs, Vision Transformers, etc.
+- 👩🏻‍💻 Exploring: LLMs.
 - ⚡ Fun fact: Amateur photographer.
 
 ---
